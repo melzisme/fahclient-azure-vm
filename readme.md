@@ -12,7 +12,7 @@ This script installs the NVidia Drivers for the VM if you're using GPU's, instal
 
 1. Click Deploy to Azure 
 
-	<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftheonemule%2Ffahclient-azure-vm%2Fmaster%2Ftemplate.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+	<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmelzisme%2Ffahclient-azure-vm%2Fmaster%2Ftemplate.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
 1. Logon to Azure if you are not already logged in. If you don't have an Azure account, [you can sign up for one for free and get $200 in Azure Credits for 30 days](https://azure.microsoft.com/en-us/free/).
 
